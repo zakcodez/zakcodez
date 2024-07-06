@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zakcodez
-- 👀 I’m interested in Scratch, Coding & Games
+- 👋 I am @zakcodez
+- 👀 I’m interested in Coding and Minecraft
 
 <!---
 zakcodez/zakcodez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
